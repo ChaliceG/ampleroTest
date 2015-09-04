@@ -1,0 +1,14 @@
+{
+  "name": "sdet",
+  "version": "1.0.0",
+  "description": "Testing app for word scramble test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.js"
+  },
+  "author": "Charlie Green",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1"
+  }
+}
