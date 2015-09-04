@@ -2,7 +2,7 @@
   "name": "sdet",
   "version": "1.0.0",
   "description": "Testing app for word scramble test",
-  "main": "index.js",
+  "repository": "https://github.com/ChaliceG/ampleroTest",
   "scripts": {
     "test": "mocha *.js"
   },
